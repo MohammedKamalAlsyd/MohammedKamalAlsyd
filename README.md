@@ -19,8 +19,7 @@ I'm Mohammed Kamal, a passionate **Artificial Intelligence and Computer Science*
 - **Other Tools**: Docker, MongoDB, GitHub, FastAPI, Scrapy, Selenium
 
 ### 📊 GitHub & Online Profiles
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedKamalAlsyd&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedKamalAlsyd&layout=compact&theme=radical)
+![Mohammed's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MohammedKamalAlsyd)
 
 - **LeetCode**: [LeetCode Profile](https://leetcode.com/u/mohammedkamalalsyd/) (150+ problems solved)
 - **Kaggle**: [Kaggle Profile](https://www.kaggle.com/mohammedkamalalsyd) (Participated in multiple competitions and data science projects)
