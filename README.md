@@ -20,12 +20,3 @@ If an idea pops into my head, chances are I'll build it and ship it.
 * 🐱 Cat lover
 * 🎣 Enjoy fishing on weekends
 * 🎓 Graduated top of my class in AI from Cairo University
-
----
-
-<p align="center">
-  <a href="mailto:MohammedKamalAlsyd@gmail.com">Email</a> • 
-  <a href="https://linkedin.com/in/mohammed-kamal-alsyd">LinkedIn</a> • 
-  <a href="https://github.com/MohammedKamalAlsyd">GitHub</a> • 
-  <a href="https://leetcode.com/u/mohammedkamalalsyd/">LeetCode</a>
-</p>
